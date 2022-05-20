@@ -142,6 +142,14 @@ key_key.replaymod.positionkeyframe:key.keyboard.unknown
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.unknown
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_key.customblocks.open_menu:key.keyboard.unknown
+key_figura.config.action_wheel_button:key.keyboard.unknown
+key_figura.config.player_popup_button:key.keyboard.unknown
+key_figura.config.panic_button:key.keyboard.unknown
+key_key.soccer.knuckleball:key.keyboard.unknown
+key_key.soccer.dipball:key.keyboard.unknown
+key_key.soccer.longball:key.keyboard.unknown
+key_key.soccer.tackle:key.keyboard.unknown
 soundCategory_master:0.18874173
 soundCategory_music:0.0
 soundCategory_record:1.0
