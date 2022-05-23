@@ -4,7 +4,7 @@ A repository of controls, for ease of loading.
 # Standard
 When adding new controls, please follow the standard.
 
-- The file containing the controls should be named exactly that of their Minecraft Username.
+- The file containing the controls should be named exactly that of their Minecraft Username (It's case-sensitive).
 - **Talent** controls are to be put in the *Talent* folder.
 - **Developer** controls are to be put in the *Dev* folder.
 
