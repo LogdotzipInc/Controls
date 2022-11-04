@@ -136,7 +136,7 @@ key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
 soundCategory_master:0.75827813
 soundCategory_music:0.0
-soundCategory_record:0.15669014
+soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:0.75586855
 soundCategory_hostile:0.50352114
