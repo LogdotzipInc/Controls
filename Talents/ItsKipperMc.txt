@@ -23,7 +23,7 @@ mouseSensitivity:0.55457747
 fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:1.0
+gamma:6.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
