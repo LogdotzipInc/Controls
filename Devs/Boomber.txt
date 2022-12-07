@@ -134,6 +134,7 @@ key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_key.profcmds.progress_dialogue:key.keyboard.y
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
