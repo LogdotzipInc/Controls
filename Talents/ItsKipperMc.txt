@@ -116,6 +116,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.logical_zoom.zoom:key.mouse.4
 key_key.profcmds.damage_toggle:key.keyboard.h
+key_key.profcmds.progress_dialogue:key.keyboard.y
 key_key.replaymod.playeroverview:key.keyboard.b
 key_key.replaymod.lighting:key.keyboard.z
 key_key.replaymod.quickmode:key.keyboard.q
