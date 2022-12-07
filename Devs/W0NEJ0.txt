@@ -110,6 +110,7 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.left.alt
+key_key.profcmds.progress_dialogue:key.keyboard.y
 soundCategory_master:0.38741723
 soundCategory_music:0.0
 soundCategory_record:1.0
