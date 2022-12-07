@@ -138,6 +138,7 @@ key_key.replaymod.bothkeyframes:key.keyboard.keypad.7
 key_iris.keybind.reload:key.keyboard.keypad.8
 key_iris.keybind.toggleShaders:key.keyboard.keypad.8
 key_iris.keybind.shaderPackSelection:key.keyboard.keypad.8
+key_key.profcmds.progress_dialogue:key.keyboard.y
 soundCategory_master:0.04415011
 soundCategory_music:0.0
 soundCategory_record:1.0
