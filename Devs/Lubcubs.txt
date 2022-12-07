@@ -122,6 +122,7 @@ key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
 key_key.profcmds.damage_toggle:key.keyboard.h
+key_key.profcmds.progress_dialogue:key.keyboard.y
 soundCategory_master:0.49337748
 soundCategory_music:0.0
 soundCategory_record:1.0
