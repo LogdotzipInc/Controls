@@ -5,7 +5,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 enableVsync:false
-entityShadows:true
+entityShadows:false
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
@@ -25,11 +25,11 @@ fov:0.55
 screenEffectScale:1.0
 fovEffectScale:0.0
 darknessEffectScale:1.0
-gamma:6.0
+gamma:1.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:3
+guiScale:4
 particles:0
 maxFps:260
 graphicsMode:1
@@ -37,6 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
+resourcePacks:["vanilla","Fabric Mods","Custom Block Resources","file/Blobby Custom Mob","file/Obby_Water_Resource_Pack_V1.0_2.zip","file/Obby - XP\u003dAge","file/BOXFox_Icons","file/Custom Mobs"]
+incompatibleResourcePacks:["Custom Block Resources"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -82,7 +84,7 @@ key_key.left:key.keyboard.a
 key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.left.alt
-key_key.sneak:key.mouse.4
+key_key.sneak:key.keyboard.backslash
 key_key.sprint:key.keyboard.left.control
 key_key.drop:key.keyboard.y
 key_key.inventory:key.keyboard.e
@@ -92,9 +94,9 @@ key_key.pickItem:key.keyboard.q
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f12
-key_key.togglePerspective:key.mouse.5
+key_key.togglePerspective:key.keyboard.minus
 key_key.smoothCamera:key.keyboard.unknown
-key_key.fullscreen:key.keyboard.f11
+key_key.fullscreen:key.keyboard.apostrophe
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
@@ -110,13 +112,13 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.customblocks.open_menu:key.keyboard.b
-key_figura.config.action_wheel_button:key.keyboard.b
+key_figura.config.action_wheel_button:key.keyboard.left.bracket
 key_figura.config.player_popup_button:key.keyboard.v
 key_figura.config.panic_button:key.keyboard.unknown
-key_key.logical_zoom.zoom:key.keyboard.r
+key_key.logical_zoom.zoom:key.mouse.middle
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.profcmds.damage_toggle:key.keyboard.h
 key_key.profcmds.switch_gamemode:key.keyboard.g
+key_key.profcmds.progress_dialogue:key.keyboard.right.bracket
 key_key.replaymod.playeroverview:key.keyboard.keypad.7
 key_key.replaymod.lighting:key.keyboard.keypad.7
 key_key.replaymod.quickmode:key.keyboard.keypad.7
@@ -138,7 +140,6 @@ key_key.replaymod.bothkeyframes:key.keyboard.keypad.7
 key_iris.keybind.reload:key.keyboard.keypad.8
 key_iris.keybind.toggleShaders:key.keyboard.keypad.8
 key_iris.keybind.shaderPackSelection:key.keyboard.keypad.8
-key_key.profcmds.progress_dialogue:key.keyboard.y
 soundCategory_master:0.04415011
 soundCategory_music:0.0
 soundCategory_record:1.0
