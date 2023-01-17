@@ -37,8 +37,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","Fabric Mods","Custom Block Resources","file/Blobby Custom Mob","file/Obby_Water_Resource_Pack_V1.0_2.zip","file/Obby - XP\u003dAge","file/BOXFox_Icons","file/Custom Mobs"]
-incompatibleResourcePacks:["Custom Block Resources"]
+resourcePacks:
+incompatibleResourcePacks:
 lastServer:
 lang:en_us
 soundDevice:""
