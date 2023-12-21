@@ -1,4 +1,5 @@
 version:3105
+creativeWarning:true
 autoJump:false
 autoSuggestions:true
 chatColors:true
