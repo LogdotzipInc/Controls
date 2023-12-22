@@ -1,5 +1,4 @@
 version:3105
-creativeWarning:false
 autoJump:false
 operatorItemsTab:true
 autoSuggestions:true
