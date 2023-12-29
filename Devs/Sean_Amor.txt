@@ -1,4 +1,5 @@
 version:3465
+creativeWarning:false
 autoJump:true
 operatorItemsTab:true
 autoSuggestions:true
@@ -42,8 +43,6 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:
-incompatibleResourcePacks:
 lastServer:
 lang:en_us
 soundDevice:""
