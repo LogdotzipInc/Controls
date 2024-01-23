@@ -141,6 +141,8 @@ key_key.replaymod.bothkeyframes:key.keyboard.keypad.7
 key_iris.keybind.reload:key.keyboard.keypad.7
 key_iris.keybind.toggleShaders:key.keyboard.keypad.7
 key_iris.keybind.shaderPackSelection:key.keyboard.keypad.7
+key_key.gamma_utils.gamma_toggle:key.keyboard.n
+key_key.gamma_utils.night_vision_toggle:key.keyboard.keypad.7
 soundCategory_master:0.04415011
 soundCategory_music:0.0
 soundCategory_record:1.0
