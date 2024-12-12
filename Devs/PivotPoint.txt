@@ -115,7 +115,7 @@ key_key.hotbar.9:key.keyboard.9
 key_axiom.keybind.context:key.keyboard.left.alt
 key_axiom.keybind.builder_tool_slot:key.keyboard.0
 key_axiom.keybind.orbit_camera:key.keyboard.unknown
-key_axiom.keybind.toggle_editor_ui:key.keyboard.right.shift
+key_axiom.keybind.toggle_editor_ui:key.keyboard.keypad.0
 key_axiom.keybind.toggle_no_clip_cap:key.keyboard.unknown
 key_axiom.keybind.toggle_angel_placement_cap:key.keyboard.unknown
 key_axiom.keybind.toggle_fast_place_cap:key.keyboard.unknown
