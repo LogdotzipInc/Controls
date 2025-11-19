@@ -1,4 +1,5 @@
 version:4554
+creativeWarning:false
 ao:true
 biomeBlendRadius:2
 enableVsync:false
@@ -55,8 +56,6 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Open a Village RP"]
-incompatibleResourcePacks:["replaymod","worldedit","yet_another_config_lib_v3","file/Open a Village RP"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -199,3 +198,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+
