@@ -51,8 +51,6 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","custom_block_resources","file/WoNeJo Base RP","file/Craftee - Touch to Netherite"]
-incompatibleResourcePacks:["replaymod","worldedit","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
 chatVisibility:0
