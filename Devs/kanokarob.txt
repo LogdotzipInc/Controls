@@ -38,7 +38,7 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-showSubtitles:true
+showSubtitles:false
 directionalAudio:true
 touchscreen:false
 bobView:true
@@ -171,7 +171,6 @@ key_key.replaymod.resettilt:key.keyboard.k
 key_key.replaymod.pathpreview:key.keyboard.h
 key_key.replaymod.keyframerepository:key.keyboard.x
 key_key.replaymod.clearkeyframes:key.keyboard.c
-key_key.replaymod.synctimeline:key.keyboard.v
 key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
@@ -203,3 +202,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+
