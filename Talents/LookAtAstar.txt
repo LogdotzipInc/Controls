@@ -15,7 +15,7 @@ prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
 graphicsMode:1
-guiScale:4
+guiScale:5
 maxFps:260
 inactivityFpsLimit:"afk"
 mipmapLevels:4
@@ -183,8 +183,8 @@ key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
-key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.backslash
+key_key.voice_chat:key.keyboard.backslash
+key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
