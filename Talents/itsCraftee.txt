@@ -180,6 +180,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.t
 soundCategory_master:0.609271523178808
 soundCategory_music:0.0
 soundCategory_record:1.0
